@@ -2,7 +2,16 @@
 
 configure `config/default.json` file to connect to mongodb
 
-run `yarn server` or `npm start server`
+run `yarn build` to load `node_modules` and build client files
+
+run `yarn server`
+
+## Waht is it?
+
+The social network where you can registrate your own account
+
+You can post posts, send messages, add to friends or follow to users
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
