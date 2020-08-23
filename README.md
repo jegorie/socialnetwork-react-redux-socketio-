@@ -12,6 +12,7 @@ The social network where you can registrate your own account
 
 You can post posts, send messages, add to friends or follow to users
 
+## React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
