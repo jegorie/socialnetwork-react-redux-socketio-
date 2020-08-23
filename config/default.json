@@ -1,6 +1,6 @@
 {
 	"port": 8080,
-	"jwtSecret": "centerOfTheFuckingWorld",
+	"jwtSecret": "k*GfhdYd]Vy83G]/",
 	"bdUrl": "mongodb://localhost:27017/thevsovhoze",
 	"baseUrl": "8080"
 }
